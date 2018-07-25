@@ -28,6 +28,7 @@ def list(my_songs)
   #list the songs by name
   my_songs.each do |key,value|
     puts key
+  end
 end
 
 
