@@ -45,7 +45,7 @@ def play(my_songs)
   if my_songs.keys.include?(song)
      system "open #{my_songs[song]}"
   else
-    puts "Invalid input, please try again"
+     puts "Invalid input, please try again"
   end
 end
 
