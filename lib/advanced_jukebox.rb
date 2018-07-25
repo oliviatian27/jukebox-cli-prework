@@ -9,7 +9,7 @@ my_songs = {
 "Guiding Light" => 'home/oliviatian27/jukebox-cli-prework/audio/Emerald-Park/04.mp3',
 "Wolf" => 'home/oliviatian27/jukebox-cli-prework/audio/Emerald-Park/05.mp3',
 "Blue" => 'home/oliviatian27/jukebox-cli-prework/audio/Emerald-Park/06.mp3',
-"Graduation Failed" => '< path to this directory >/jukebox-cli/audio/Emerald-Park/07.mp3'
+"Graduation Failed" => 'home/oliviatian27/jukebox-cli-prework/audio/Emerald-Park/07.mp3'
 }
 
 def help
